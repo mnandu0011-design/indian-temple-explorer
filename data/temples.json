@@ -1,0 +1,1173 @@
+[
+ {
+  "slug": "tirumala-venkateswara",
+  "name": "Tirumala Venkateswara Temple",
+  "city": "Tirumala (Tirupati)",
+  "district": "Tirupati district",
+  "state": "Andhra Pradesh",
+  "region": "South India",
+  "coords": [
+   13.6833,
+   79.3472
+  ],
+  "deity": "Venkateswara (a form of Vishnu)",
+  "keywords": [
+   "tirupati",
+   "tirumala",
+   "balaji",
+   "srinivasa",
+   "govinda",
+   "ttd",
+   "venkateshwara",
+   "seshachalam"
+  ],
+  "circuits": [
+   "Vaishnava pilgrimage",
+   "Hill shrines of the South"
+  ],
+  "tagline": "The hill shrine of Lord Venkateswara on the Seshachalam range, among the most visited pilgrimage sites in the world.",
+  "summary": "Perched on the seventh peak of the Tirumala hills, the temple of Sri Venkateswara (also called Balaji or Srinivasa) is a living centre of Vaishnava devotion with an unbroken record of royal and public patronage stretching over a thousand years.",
+  "facts": [
+   [
+    "Elevation",
+    "About 853 m above sea level (Tirumala hill)"
+   ],
+   [
+    "Tradition",
+    "Vaishnava; worship follows the Vaikhanasa Agama"
+   ],
+   [
+    "Managed by",
+    "Tirumala Tirupati Devasthanams (TTD)"
+   ],
+   [
+    "Known for",
+    "Gilded sanctum tower, hair offering, Tirupati laddu prasadam"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "Early Tamil literature refers to the Venkatam hill as the northern boundary of the Tamil-speaking country, which shows that the hill was well known as a sacred landmark many centuries ago.",
+    "The temple preserves a very large body of inscriptions, well over a thousand, recording gifts under the Pallava, Chola, Pandya and Vijayanagara rulers. Gifts attributed to the Pallava queen Samavai in the tenth century are among the earliest that scholars regularly cite.",
+    "Under the Vijayanagara empire the shrine received exceptional patronage. Emperor Krishnadevaraya (reigned 1509-1529) is recorded as visiting several times and donating jewels and gold, and portrait statues of him and his queens stand near the main entrance.",
+    "In the nineteenth century the temple was managed by the Hathiramji Mutt. The Tirumala Tirupati Devasthanams was created by a Madras legislative Act of 1932 and has administered the temple since the early 1930s."
+   ],
+   "tradition": [
+    "Devotional tradition holds that the deity is self-manifested (svayambhu) and that the hill is Vaikuntha, Vishnu's abode, brought to earth. These are articles of faith rather than matters of documented history.",
+    "A popular story says Venkateswara borrowed wealth from Kubera to finance his marriage to Padmavati and that pilgrims' offerings help repay this debt. It is a traditional narrative that explains the culture of generous giving at Tirumala."
+   ]
+  },
+  "architecture": [
+   "The temple is built in the Dravidian style and is arranged in three concentric enclosures (prakarams). The outer entrance is the Mahadwaram, topped by a gopuram.",
+   "Over the inner sanctum rises the Ananda Nilayam vimana, a gilded tower that is the shrine's most recognisable feature and appears in many of the photographs in the gallery.",
+   "Inside the complex are pillared halls named for their patrons, including the Krishnadevaraya Mandapam, the Tirumala Raya Mandapam and the Ranganayakula Mandapam, as well as the sacred tank Swami Pushkarini beside the temple."
+  ],
+  "significance": [
+   "Tirumala is a major centre of Sri Vaishnava devotion and one of the most visited places of worship anywhere in the world. Pilgrims commonly offer their hair as an expression of surrender, and the famous Tirupati laddu received a Geographical Indication tag in 2009.",
+   "The temple's free meal service (annadanam) and extensive pilgrim facilities make it a notable example of large-scale, community-supported temple management."
+  ],
+  "festivals": [
+   {
+    "n": "Brahmotsavam",
+    "w": "September-October (annual, nine days)",
+    "d": "The principal annual festival, with processions of the deity on different vahanas (mounts), including the Garuda Seva."
+   },
+   {
+    "n": "Vaikuntha Ekadashi",
+    "w": "December-January",
+    "d": "Devotees queue through the special northern doorway to the sanctum on this auspicious day."
+   },
+   {
+    "n": "Ratha Saptami",
+    "w": "January-February",
+    "d": "A single-day festival in which the deity is carried in procession on seven different vahanas from morning to night."
+   },
+   {
+    "n": "Teppotsavam",
+    "w": "Spring",
+    "d": "The float festival on the Swami Pushkarini tank."
+   }
+  ],
+  "visit": {
+   "best_time": "October to February is cooler. Expect very large crowds in Brahmotsavam week, on weekends and during school holidays.",
+   "reach": [
+    "Nearest airport: Tirupati (Renigunta), about 15 km from Tirupati town.",
+    "Nearest railhead: Tirupati, from where buses and taxis climb the ghat road to Tirumala (about 20 km).",
+    "On foot: the Alipiri footpath has roughly 3,500 steps; the Srivari Mettu path is shorter."
+   ],
+   "tips": [
+    "Book darshan and accommodation only through the official TTD channels; avoid touts.",
+    "A traditional dress code applies, and a photo ID is usually required for special entry tickets.",
+    "Allow a full day or more, as waiting times in the general queue can be long."
+   ],
+   "official": {
+    "label": "Tirumala Tirupati Devasthanams (official)",
+    "url": "https://tirupatibalaji.ap.gov.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "meenakshi-amman",
+    "why": "Another great South Indian Dravidian temple"
+   },
+   {
+    "slug": "sabarimala",
+    "why": "A forest-hill shrine with strong pilgrimage traditions"
+   },
+   {
+    "slug": "jagannath",
+    "why": "Another major Vishnu-related pilgrimage centre"
+   }
+  ],
+  "image_folder": "Tirumala Tirupati Venkateswara Temple"
+ },
+ {
+  "slug": "meenakshi-amman",
+  "name": "Meenakshi Amman Temple",
+  "city": "Madurai",
+  "district": "Madurai district",
+  "state": "Tamil Nadu",
+  "region": "South India",
+  "coords": [
+   9.9195,
+   78.1193
+  ],
+  "deity": "Meenakshi and Sundareshwarar (Shiva)",
+  "keywords": [
+   "madurai",
+   "meenakshi",
+   "minakshi",
+   "sundareswarar",
+   "sundareshwarar",
+   "pandya",
+   "nayak",
+   "gopuram"
+  ],
+  "circuits": [
+   "Shakti and Shaiva pilgrimage",
+   "Dravidian temple architecture"
+  ],
+  "tagline": "Madurai's colourful gopurams rise above one of the great temple-cities of the Tamil country.",
+  "summary": "Dedicated to the goddess Meenakshi and her consort Sundareshwarar, the temple stands at the heart of Madurai and shapes the city's religious calendar, street plan and cultural life.",
+  "facts": [
+   [
+    "Style",
+    "Dravidian; most of the present complex dates from the Nayak period"
+   ],
+   [
+    "Gopurams",
+    "Fourteen major towers; the south tower is the tallest at roughly 50 m"
+   ],
+   [
+    "Sacred tank",
+    "Porthamarai Kulam (Golden Lotus Tank)"
+   ],
+   [
+    "Known for",
+    "Ayiram Kal (thousand-pillar) Mandapam, sculpted pillars, Chithirai festival"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "Madurai was a capital of the Pandya dynasty, and early Tamil literature already associates the city with a goddess shrine. Temples have therefore stood on this site for a very long time.",
+    "Historical accounts record that the medieval temple suffered serious damage during the fourteenth-century conflicts that followed the Delhi Sultanate's incursions into the south. Restoration followed under Vijayanagara rule.",
+    "The present form of the complex was shaped mainly by the Nayak rulers of Madurai between the sixteenth and seventeenth centuries. Viswanatha Nayaka began the rebuilding and Thirumalai Nayaka (reigned 1623-1659) added major halls such as the Pudu Mandapam.",
+    "The thousand-pillar hall is traditionally attributed to Ariyanatha Mudaliar, a minister of the early Nayaks, and now houses a temple art museum."
+   ],
+   "tradition": [
+    "According to the Madurai sthala purana and the Tiruvilaiyadal Puranam, Meenakshi was born from a sacrificial fire as a princess of the Pandya line and later married Shiva, who came to Madurai as Sundareshwarar. The annual celestial wedding festival re-enacts this story.",
+    "These accounts are sacred narratives and are not presented here as dated historical events."
+   ]
+  },
+  "architecture": [
+   "The complex is a walled rectangle with four towering gateways facing the cardinal directions. The fourteen gopurams are covered with thousands of stucco figures of deities, mythical animals and scenes from the epics, repainted in bright colours during periodic consecration ceremonies.",
+   "The inner temple has separate sanctums for Meenakshi and Sundareshwarar, a Golden Lotus Tank, and long pillared corridors with carved yali and divine figures.",
+   "The Ayiram Kal Mandapam has nearly a thousand carved pillars. The sculpture on the pillars of the Pudu Mandapam and other halls is among the finest examples of Nayak-period craftsmanship."
+  ],
+  "significance": [
+   "Meenakshi Amman is one of the most important goddess temples of South India, and Madurai is called the temple city because streets are laid out in concentric squares around the shrine and festivals move through them.",
+   "The temple remains a vibrant centre for music, dance and Tamil devotional traditions, and daily worship includes elaborate rituals for both the goddess and Sundareshwarar."
+  ],
+  "festivals": [
+   {
+    "n": "Chithirai Thiruvizha",
+    "w": "April-May",
+    "d": "The principal festival, including the celestial wedding of Meenakshi and Sundareshwarar and a chariot procession through the city's streets."
+   },
+   {
+    "n": "Navaratri",
+    "w": "September-October",
+    "d": "Nine nights of special decorations (golu) and processions."
+   },
+   {
+    "n": "Teppam (Float Festival)",
+    "w": "January-February",
+    "d": "The deities are taken on a decorated float at the large Vandiyur Mariamman Teppakulam tank."
+   },
+   {
+    "n": "Aavani Moolam",
+    "w": "August-September",
+    "d": "Commemorates the Tiruvilaiyadal stories of Shiva in Madurai."
+   }
+  ],
+  "visit": {
+   "best_time": "October to March has the most comfortable weather. Chithirai festival week is spectacular but extremely crowded.",
+   "reach": [
+    "Madurai has its own airport and a major railway junction.",
+    "The temple is in the old city centre and is easily reached by auto-rickshaw, taxi or bus."
+   ],
+   "tips": [
+    "Traditional dress is expected. Mobile phones and cameras are restricted inside the temple, and cloakroom facilities are provided near the entrances.",
+    "Visit early morning or late evening to avoid crowds and to see the evening rituals.",
+    "Check current opening hours and any ticketed darshan options with the temple administration."
+   ],
+   "official": {
+    "label": "Madurai Meenakshi Temple (HR&CE, Tamil Nadu)",
+    "url": "https://maduraimeenakshi.hrce.tn.gov.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "tirumala-venkateswara",
+    "why": "Another great South Indian temple with Dravidian gateways"
+   },
+   {
+    "slug": "sabarimala",
+    "why": "A major Tamil and Malayali pilgrimage destination"
+   },
+   {
+    "slug": "kashi-vishwanath",
+    "why": "Shiva worship in the north: the sacred city of Varanasi"
+   }
+  ],
+  "image_folder": "Meenakshi Amman Temple"
+ },
+ {
+  "slug": "jagannath",
+  "name": "Shri Jagannath Temple",
+  "city": "Puri",
+  "district": "Puri district",
+  "state": "Odisha",
+  "region": "East India",
+  "coords": [
+   19.8049,
+   85.818
+  ],
+  "deity": "Jagannath, Balabhadra and Subhadra",
+  "keywords": [
+   "puri",
+   "jagannatha",
+   "rath yatra",
+   "ratha yatra",
+   "char dham",
+   "kalinga",
+   "mahaprasad"
+  ],
+  "circuits": [
+   "Char Dham (Puri)",
+   "Vaishnava pilgrimage"
+  ],
+  "tagline": "The home of the Rath Yatra, where the Lord of the Universe is worshipped as a wooden deity beside his brother and sister.",
+  "summary": "On the shore of the Bay of Bengal, the Jagannath temple of Puri is the centre of a distinctive devotional tradition and one of the four Char Dham pilgrimage sites.",
+  "facts": [
+   [
+    "Style",
+    "Kalinga (Odisha) temple architecture"
+   ],
+   [
+    "Main tower",
+    "About 65 m (roughly 214 ft)"
+   ],
+   [
+    "Deities",
+    "Carved wooden images of Jagannath, Balabhadra and Subhadra"
+   ],
+   [
+    "Known for",
+    "Rath Yatra, Nabakalebara, Mahaprasad"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "The present temple is commonly attributed to the Eastern Ganga king Anantavarman Chodagangadeva in the twelfth century. Construction and additions then continued under later Ganga rulers and subsequent dynasties.",
+    "Later Odishan kings, regarding themselves as servants of Jagannath, maintained the temple's endowments and ritual calendar. The Gajapati rulers of Puri continue to perform ceremonial services such as sweeping the chariots during Rath Yatra.",
+    "The temple was a target of repeated attacks and temporary removals of the deities in the medieval period, and the ritual tradition survived through restoration of the cult each time."
+   ],
+   "tradition": [
+    "A traditional account in Puranic literature credits King Indradyumna with building the first temple and with the miraculous appearance of the deity in a log of sacred wood.",
+    "Because the main images are renewed in a ritual called Nabakalebara, devotional tradition speaks of an ancient and continuous worship of a single divine presence. This is a theological idea that no archaeological evidence can confirm or deny."
+   ]
+  },
+  "architecture": [
+   "The temple stands within a rectangular compound enclosed by an outer wall known as the Meghanada Pacheri. The main entrance on the east is the Singhadwara (Lion Gate), with the Hathidwara, Vyaghradwara and Ashwadwara gates on the other sides.",
+   "The sanctum (deula) is topped by a curvilinear tower surmounted by the Nilachakra, an iron wheel, and a flag changed daily. Smaller halls, the jagamohana (porch) and the nata mandapa lead toward the sanctum in the classic Kalinga sequence.",
+   "A stone pillar, the Aruna Stambha, stands before the Singhadwara."
+  ],
+  "significance": [
+   "For devotees, Jagannath is a universal form of Vishnu. The temple's worship, culture and food (Mahaprasad, cooked in earthen pots in a vast temple kitchen) are open to all devotees within the temple and form a distinct tradition within Hinduism.",
+   "Puri is counted among the four Char Dham destinations established in Hindu tradition, together with Badrinath, Dwarka and Rameswaram."
+  ],
+  "festivals": [
+   {
+    "n": "Rath Yatra",
+    "w": "June-July (Ashadha)",
+    "d": "The three deities travel on enormous wooden chariots to the Gundicha Temple and return in the Bahuda Yatra. Millions gather along the Grand Road (Bada Danda)."
+   },
+   {
+    "n": "Snana Yatra",
+    "w": "June (Jyeshtha Purnima)",
+    "d": "The ritual bathing of the deities before Rath Yatra."
+   },
+   {
+    "n": "Nabakalebara",
+    "w": "Years with an extra lunar month (roughly every 8-19 years)",
+    "d": "The wooden images are ceremonially replaced with new ones."
+   },
+   {
+    "n": "Chandan Yatra",
+    "w": "April-May",
+    "d": "A long summer festival with boat processions on the Narendra Tank."
+   }
+  ],
+  "visit": {
+   "best_time": "October to March is pleasant. Rath Yatra week is exceptional, but extremely crowded.",
+   "reach": [
+    "Nearest airport: Bhubaneswar (about 60 km).",
+    "Puri has a major railway station with direct trains to Delhi, Kolkata and Chennai."
+   ],
+   "tips": [
+    "Entry to the temple is restricted to Hindus as a long-standing rule; non-Hindu visitors can see the temple from outside and visit the beach, Konark and other sites.",
+    "Mobile phones, cameras and leather items are not permitted inside; use the cloakroom facilities.",
+    "Ask only at the official counters for darshan and prasad information."
+   ],
+   "official": {
+    "label": "Shree Jagannath Temple Administration",
+    "url": "https://www.shreejagannatha.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "tirumala-venkateswara",
+    "why": "Another Vishnu-centred pilgrimage"
+   },
+   {
+    "slug": "kashi-vishwanath",
+    "why": "Another ancient pilgrimage city"
+   },
+   {
+    "slug": "kedarnath",
+    "why": "Both are part of Char Dham traditions (Puri and Himalayan)"
+   }
+  ],
+  "image_folder": "Shri Jagannath Temple"
+ },
+ {
+  "slug": "amarnath",
+  "name": "Amarnath Cave Shrine",
+  "city": "Pahalgam / Baltal region",
+  "district": "Anantnag and Ganderbal region",
+  "state": "Jammu and Kashmir",
+  "region": "North India",
+  "coords": [
+   34.2146,
+   75.5011
+  ],
+  "deity": "Shiva, worshipped as a naturally formed ice lingam",
+  "keywords": [
+   "amarnath",
+   "cave",
+   "ice lingam",
+   "pahalgam",
+   "baltal",
+   "kashmir",
+   "yatra",
+   "himalaya",
+   "shivling"
+  ],
+  "circuits": [
+   "Shaiva pilgrimage",
+   "Himalayan yatras"
+  ],
+  "tagline": "A high-altitude Himalayan cave where pilgrims travel each summer to see a naturally forming lingam of ice.",
+  "summary": "The Amarnath cave lies at about 3,888 m in the Himalayas. It is visited during an annual summer yatra, and the shrine is renowned for an ice formation that devotees regard as a natural lingam of Shiva.",
+  "facts": [
+   [
+    "Altitude",
+    "About 3,888 m (12,756 ft)"
+   ],
+   [
+    "Season",
+    "Annual yatra, roughly July-August around Shravan Purnima"
+   ],
+   [
+    "Routes",
+    "Pahalgam (traditional, multi-day) and Baltal (shorter)"
+   ],
+   [
+    "Organised by",
+    "Shri Amarnathji Shrine Board (established 2000)"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "Early Kashmiri texts, including the Nilamata Purana and Kalhana's twelfth-century chronicle Rajatarangini, refer to a pilgrimage to the Amareshwara cave, so the shrine's sanctity is recorded for many centuries.",
+    "The pilgrimage was historically organised by local custom. In 2000 the Government of Jammu and Kashmir created the Shri Amarnathji Shrine Board to manage the yatra, its registration and its facilities."
+   ],
+   "tradition": [
+    "According to devotional tradition, Shiva narrated the secret of immortality (Amar Katha) to Parvati in this cave. Devotees regard the ice lingam, which grows and shrinks with the season, as a sign of Shiva's presence.",
+    "A widely repeated local tradition credits a Muslim shepherd with rediscovering the cave in the nineteenth century. Accounts of this event differ, so it is presented here only as a tradition."
+   ]
+  },
+  "architecture": [
+   "Amarnath is not a built temple but a natural cave, set into a steep mountain wall above the Lidder valley and approached by a glacier-fed stream and steps. The shrine and its approach are managed with temporary and seasonal structures.",
+   "The sacred ice formation is created by water droplets freezing on the cave floor. Its size varies from year to year with weather and season, and photographs in the gallery show it in different years."
+  ],
+  "significance": [
+   "Amarnath is one of the most important Shaiva pilgrimages in India. Reaching it is physically demanding, which many pilgrims regard as part of its spiritual value.",
+   "The yatra is also a significant source of seasonal livelihoods for local ponymen, porters and traders in the Kashmir valley."
+  ],
+  "festivals": [
+   {
+    "n": "Amarnath Yatra",
+    "w": "Typically July-August, ending on Shravan Purnima (Raksha Bandhan)",
+    "d": "The Pahalgam and Baltal routes see pilgrims travelling with the ceremonial Chhari Mubarak, the sacred mace of Shiva."
+   },
+   {
+    "n": "Pratham Puja",
+    "w": "Start of the yatra",
+    "d": "The first formal worship at the cave, performed before the yatra opens to the public."
+   }
+  ],
+  "visit": {
+   "best_time": "Only during the officially notified yatra period; the cave is snow-bound and inaccessible in winter.",
+   "reach": [
+    "Nearest airport: Srinagar (about 90 km to Pahalgam).",
+    "Baltal base camp is reached from Srinagar via Sonamarg; Pahalgam is reached via Anantnag."
+   ],
+   "tips": [
+    "Registration, a medical fitness certificate and the dates and rules set by the Shrine Board are mandatory; check only current official sources.",
+    "The route is high altitude and weather can change very quickly. Altitude sickness is a real risk: acclimatise and carry warm, waterproof clothing.",
+    "Rules, route status and security arrangements change each year, so confirm them before travel."
+   ],
+   "official": {
+    "label": "Shri Amarnathji Shrine Board (official)",
+    "url": "https://jksasb.nic.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "kedarnath",
+    "why": "Another high-altitude Himalayan Shiva shrine"
+   },
+   {
+    "slug": "kashi-vishwanath",
+    "why": "Shiva's most famous city shrine"
+   },
+   {
+    "slug": "golden-temple",
+    "why": "Another major northern pilgrimage destination"
+   }
+  ],
+  "image_folder": "Amarnath Cave Temple"
+ },
+ {
+  "slug": "golden-temple",
+  "name": "Golden Temple (Harmandir Sahib)",
+  "city": "Amritsar",
+  "district": "Amritsar district",
+  "state": "Punjab",
+  "region": "North India",
+  "coords": [
+   31.62,
+   74.8765
+  ],
+  "deity": "Not a Hindu temple; the holiest gurdwara of Sikhism, centred on the Guru Granth Sahib",
+  "keywords": [
+   "amritsar",
+   "harmandir sahib",
+   "darbar sahib",
+   "sikh",
+   "gurdwara",
+   "langar",
+   "sarovar",
+   "akal takht"
+  ],
+  "circuits": [
+   "Sikh pilgrimage"
+  ],
+  "tagline": "Sikhism's holiest gurdwara: a golden sanctum in the middle of a sacred pool, open to people of every faith.",
+  "summary": "Harmandir Sahib is the spiritual centre of Sikhism. It is a gurdwara (a Sikh place of worship) rather than a temple in the Hindu sense, and it welcomes visitors of all backgrounds.",
+  "facts": [
+   [
+    "Religion",
+    "Sikhism; the Guru Granth Sahib is the central scripture"
+   ],
+   [
+    "Sacred pool",
+    "Amrit Sarovar"
+   ],
+   [
+    "Entrances",
+    "Four doors, symbolising openness to all"
+   ],
+   [
+    "Known for",
+    "Langar (community kitchen), gold-plated sanctum, continuous kirtan"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "The Sikh Guru Ram Das initiated the excavation of the sacred pool and the founding of the town now called Amritsar in the 1570s, on land acquired by the Sikh community.",
+    "Guru Arjan, the fifth Guru, designed the Harmandir Sahib at the centre of the pool. The foundation was laid in 1588, and in 1604 the first compilation of the Sikh scripture, the Adi Granth, was installed there.",
+    "Guru Hargobind established the Akal Takht across from the shrine in 1606 as the seat of Sikh temporal authority.",
+    "The complex was attacked and damaged several times in the eighteenth century, notably during Afghan invasions, and was rebuilt by Sikh leaders. In the early nineteenth century Maharaja Ranjit Singh sponsored the marble work and the gold covering that gives the shrine its popular name."
+   ],
+   "tradition": [
+    "Sikh tradition says that the foundation stone was laid by the Muslim Sufi saint Mian Mir at Guru Arjan's invitation. Historians and Sikh sources differ on details, so it is noted here as a tradition associated with the shrine's inclusive ethos."
+   ]
+  },
+  "architecture": [
+   "The Harmandir Sahib stands on a platform in the middle of the Amrit Sarovar and is reached by a causeway called the Guru's Bridge. The building combines Sikh, Hindu and Islamic design elements, with a lotus-shaped gilded dome and fine inlay work.",
+   "It has four entrances, one on each side, a feature that symbolises that the shrine is open to people from every direction and faith.",
+   "The Akal Takht stands at the head of the causeway, and the circumambulatory marble path (parikrama) around the pool is lined with other shrines and halls."
+  ],
+  "significance": [
+   "The Golden Temple expresses core Sikh values: equality, service (seva) and sharing. The Guru Ka Langar serves free vegetarian meals to everyone regardless of faith, caste or status, prepared and served largely by volunteers, on a scale of tens of thousands of people each day.",
+   "Verses from the Guru Granth Sahib are sung continuously in kirtan, and the scripture is ceremonially brought to the sanctum each morning and returned at night."
+  ],
+  "festivals": [
+   {
+    "n": "Vaisakhi",
+    "w": "April",
+    "d": "Marks the founding of the Khalsa in 1699 and the harvest season."
+   },
+   {
+    "n": "Gurpurab",
+    "w": "Dates follow the Nanakshahi or lunar calendar",
+    "d": "Celebrations of the birth anniversaries of the Gurus, especially Guru Nanak, with illuminations and processions."
+   },
+   {
+    "n": "Bandi Chhor Divas",
+    "w": "October-November (with Diwali)",
+    "d": "Commemorates Guru Hargobind's release; the complex is lit with lamps."
+   }
+  ],
+  "visit": {
+   "best_time": "October to March is comfortable. Evenings and nights, when the shrine is lit and reflects in the pool, are very popular.",
+   "reach": [
+    "Amritsar has an international airport and a major railway station.",
+    "The temple is in the old city and about 2 km from the railway station."
+   ],
+   "tips": [
+    "Everyone must cover their head, remove shoes and wash their feet before entering. Tobacco, alcohol and intoxicants are not allowed.",
+    "Entry is free and the complex is open for most of the day and night.",
+    "Please be respectful to those in prayer and follow the instructions of the volunteers (sevadars)."
+   ],
+   "official": {
+    "label": "Shiromani Gurdwara Parbandhak Committee (SGPC)",
+    "url": "https://sgpc.net"
+   }
+  },
+  "related": [
+   {
+    "slug": "amarnath",
+    "why": "Another major shrine in the north"
+   },
+   {
+    "slug": "kedarnath",
+    "why": "A Himalayan pilgrimage in a neighbouring region"
+   },
+   {
+    "slug": "kashi-vishwanath",
+    "why": "A major pilgrimage city of northern India"
+   }
+  ],
+  "image_folder": "Golden Temple"
+ },
+ {
+  "slug": "kedarnath",
+  "name": "Kedarnath Temple",
+  "city": "Kedarnath",
+  "district": "Rudraprayag district",
+  "state": "Uttarakhand",
+  "region": "North India",
+  "coords": [
+   30.7352,
+   79.0669
+  ],
+  "deity": "Shiva (Kedarnath)",
+  "keywords": [
+   "kedar",
+   "jyotirlinga",
+   "char dham",
+   "chota char dham",
+   "himalaya",
+   "mandakini",
+   "rudraprayag",
+   "gaurikund",
+   "panch kedar"
+  ],
+  "circuits": [
+   "Char Dham (Himalayan)",
+   "Jyotirlinga",
+   "Panch Kedar"
+  ],
+  "tagline": "A grey-stone Shiva temple beneath snow peaks at the head of the Mandakini valley.",
+  "summary": "Kedarnath stands at about 3,583 m near the Mandakini river. It is one of the twelve Jyotirlingas, a part of the Himalayan Char Dham circuit and open only in the warmer months.",
+  "facts": [
+   [
+    "Altitude",
+    "About 3,583 m (11,755 ft)"
+   ],
+   [
+    "Status",
+    "One of the twelve Jyotirlingas; part of the Char Dham of Uttarakhand and the Panch Kedar group"
+   ],
+   [
+    "Open season",
+    "Roughly late April/May to Diwali; closed in winter"
+   ],
+   [
+    "Winter seat",
+    "The deity is worshipped at Ukhimath"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "Kedarnath is mentioned in medieval devotional literature as a major Shaiva centre in the Himalaya, and the temple has long been the destination of pilgrims who make the arduous trek from the foothills.",
+    "The present stone temple is of considerable age, but its exact construction date and builders are not securely documented. Scholars generally place it within the medieval period, and the temple has been repaired and restored over time.",
+    "In June 2013 a catastrophic flood and debris flow devastated the Kedarnath valley and caused great loss of life. The temple building survived, shielded in part by a large boulder that lodged behind it, and the surrounding area has since been rebuilt.",
+    "Temple affairs are now administered by the Badrinath-Kedarnath Temple Committee."
+   ],
+   "tradition": [
+    "According to tradition, the Pandavas sought Shiva's forgiveness after the Kurukshetra war. Shiva took the form of a bull and sank into the ground at Kedarnath, leaving his hump, which is worshipped here, while other parts of his body appeared at the other Panch Kedar shrines. This is a sacred narrative rather than a verified historical event.",
+    "Tradition also associates the sage Adi Shankaracharya with the temple and says that he attained samadhi near it. The date and details are traditional and are not historically certain."
+   ]
+  },
+  "architecture": [
+   "The temple is built of large, interlocking grey stone blocks in the Himalayan stone-temple tradition, with a sanctum (garbhagriha), an assembly hall (mandapa) and a pyramidal roof. Its massive masonry is part of why it withstands snow, wind and floods.",
+   "The sanctum holds a conical rock worshipped as the Kedarnath form of Shiva, not an anthropomorphic idol. A Nandi bull faces the temple at the entrance.",
+   "The temple sits on a plain with the Chorabari glacier and the snow peaks of the Kedar range behind it."
+  ],
+  "significance": [
+   "Kedarnath is the northernmost of the twelve Jyotirlingas, and it is the most remote major shrine, which many pilgrims value as a test of devotion.",
+   "Pilgrims believe that worshipping at Kedarnath is among the most meritorious acts in the Himalaya. The annual opening and closing ceremonies are important public events in Garhwal."
+  ],
+  "festivals": [
+   {
+    "n": "Opening of the temple doors",
+    "w": "Late April or May (the date is announced on Maha Shivaratri at Ukhimath)",
+    "d": "After the winter closure, the deity's palanquin travels from Ukhimath to Kedarnath and the doors are ceremonially opened."
+   },
+   {
+    "n": "Closing ceremony (Bhai Dooj)",
+    "w": "October-November",
+    "d": "The temple is closed for winter and the deity's image is carried to Ukhimath."
+   },
+   {
+    "n": "Maha Shivaratri",
+    "w": "February-March",
+    "d": "Celebrated with special worship; the festival is observed at Ukhimath while Kedarnath is snow-bound."
+   }
+  ],
+  "visit": {
+   "best_time": "May-June and September-October. Heavy monsoon rain (July-August) brings landslide and flood risks.",
+   "reach": [
+    "The road ends at Gaurikund; from there it is a trek of roughly 16 km, or you can use ponies, palanquins or helicopter services.",
+    "Nearest airport: Jolly Grant (Dehradun); nearest railheads: Rishikesh and Haridwar."
+   ],
+   "tips": [
+    "Pilgrim registration is mandatory in Uttarakhand; use only the official government portal.",
+    "Carry warm, waterproof clothing and take time to acclimatise to altitude.",
+    "Check weather and route advisories before travelling, as paths can close at short notice."
+   ],
+   "official": {
+    "label": "Badrinath-Kedarnath Temple Committee",
+    "url": "https://badrinath-kedarnath.gov.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "amarnath",
+    "why": "Another high-altitude Himalayan Shiva shrine"
+   },
+   {
+    "slug": "kashi-vishwanath",
+    "why": "Another Jyotirlinga"
+   },
+   {
+    "slug": "jagannath",
+    "why": "Another site in the Char Dham tradition"
+   }
+  ],
+  "image_folder": "Kedarnath Temple"
+ },
+ {
+  "slug": "kashi-vishwanath",
+  "name": "Kashi Vishwanath Temple",
+  "city": "Varanasi",
+  "district": "Varanasi district",
+  "state": "Uttar Pradesh",
+  "region": "North India",
+  "coords": [
+   25.3109,
+   83.0107
+  ],
+  "deity": "Shiva (Vishwanath, Lord of the Universe)",
+  "keywords": [
+   "varanasi",
+   "kashi",
+   "banaras",
+   "benares",
+   "vishwanath",
+   "viswanath",
+   "jyotirlinga",
+   "ganga",
+   "ghat"
+  ],
+  "circuits": [
+   "Jyotirlinga",
+   "Sacred cities of the Ganga"
+  ],
+  "tagline": "The golden-spired Shiva temple at the centre of Varanasi, one of the world's oldest living cities.",
+  "summary": "Kashi Vishwanath is one of the twelve Jyotirlingas and the most celebrated Shiva temple in Varanasi, a city that Hindu tradition regards as a place of liberation.",
+  "facts": [
+   [
+    "Status",
+    "One of the twelve Jyotirlingas"
+   ],
+   [
+    "Present building",
+    "Built in 1780 under Maratha queen Ahilyabai Holkar"
+   ],
+   [
+    "Gilded spires",
+    "Gold donated by Maharaja Ranjit Singh in 1835"
+   ],
+   [
+    "Recent change",
+    "Kashi Vishwanath Corridor inaugurated in December 2021"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "Varanasi has been a major Shaiva centre for well over two thousand years, and a Vishweshvara shrine at Kashi appears in Sanskrit literature, including the Puranas and later pilgrimage guides.",
+    "Historical sources describe a succession of temples on or near this site that were damaged or demolished and rebuilt across the medieval period. Different dates and sequences are given by different sources, so specific claims about earlier structures should be checked against scholarly work.",
+    "In 1669 the Mughal ruler Aurangzeb ordered the demolition of the temple and the Gyanvapi Mosque was built adjacent to the site. The mosque stands beside the present temple and the subject is the focus of continuing legal proceedings, on which this site takes no position.",
+    "The present temple was built in 1780 by Ahilyabai Holkar of Indore, and in 1835 Maharaja Ranjit Singh of the Sikh Empire donated gold for the gilding of the spires.",
+    "After the Uttar Pradesh Shri Kashi Vishwanath Temple Act of 1983, the temple has been managed by a trust. A large redevelopment, the Kashi Vishwanath Corridor, was opened in December 2021 to connect the temple directly with the Ganga ghats."
+   ],
+   "tradition": [
+    "Hindu tradition says that Kashi is Shiva's own city and that the Jyotirlinga here is a luminous pillar of light that appeared at the beginning of creation. It also holds that death in Kashi leads to liberation (moksha). These are central religious beliefs of the tradition."
+   ]
+  },
+  "architecture": [
+   "The present temple is a compact complex in the North Indian Nagara style, with the main shrine topped by a gilded spire and two further gilded domes. The gold on the tower and domes is its most striking feature and is prominent in the gallery.",
+   "The sanctum houses a black stone lingam set in a silver base. The surrounding area includes shrines to other deities and a well called Gyan Vapi.",
+   "The corridor project created wide, open walkways between the temple precinct and the riverfront."
+  ],
+  "significance": [
+   "Kashi Vishwanath is considered one of the holiest of all Shiva temples. Pilgrims traditionally bathe in the Ganga before they visit and perform the Panchakroshi circuit around Kashi.",
+   "Varanasi is also an important centre of learning, music and craft, and the temple's rituals, including the evening Saptarishi aarti, are a defining part of the city's life."
+  ],
+  "festivals": [
+   {
+    "n": "Maha Shivaratri",
+    "w": "February-March",
+    "d": "The principal Shiva festival, with night-long worship and a wedding procession of Shiva."
+   },
+   {
+    "n": "Shravan month",
+    "w": "July-August",
+    "d": "Mondays are especially busy as devotees offer Ganga water to the lingam."
+   },
+   {
+    "n": "Dev Deepawali",
+    "w": "November (Kartik Purnima)",
+    "d": "Thousands of lamps light the ghats along the river."
+   },
+   {
+    "n": "Rangbhari Ekadashi",
+    "w": "February-March",
+    "d": "A festival of colours before Holi, with special celebrations in Kashi."
+   }
+  ],
+  "visit": {
+   "best_time": "October to March. Summer (April-June) is very hot, and the monsoon can cause the Ganga to flood the ghats.",
+   "reach": [
+    "Varanasi has an airport (Lal Bahadur Shastri) and a major railway junction.",
+    "The temple is reachable on foot from Godowlia and the ghats; the Lalita Ghat entrance links to the corridor."
+   ],
+   "tips": [
+    "Security is tight: mobile phones, bags and electronic items are usually not permitted inside, so use the lockers provided.",
+    "Book darshan and aarti slots online where available.",
+    "Allow time to see the ghats and the evening Ganga aarti."
+   ],
+   "official": {
+    "label": "Shri Kashi Vishwanath Temple Trust",
+    "url": "https://shrikashivishwanath.org"
+   }
+  },
+  "related": [
+   {
+    "slug": "kedarnath",
+    "why": "Another Jyotirlinga in the Himalaya"
+   },
+   {
+    "slug": "jagannath",
+    "why": "Another ancient pilgrimage city"
+   },
+   {
+    "slug": "amarnath",
+    "why": "Another major Shaiva shrine"
+   }
+  ],
+  "image_folder": "Kashi Vishwanath Temple"
+ },
+ {
+  "slug": "sabarimala",
+  "name": "Sabarimala Ayyappa Temple",
+  "city": "Sabarimala",
+  "district": "Pathanamthitta district",
+  "state": "Kerala",
+  "region": "South India",
+  "coords": [
+   9.4328,
+   77.0803
+  ],
+  "deity": "Ayyappa (also called Dharma Shasta)",
+  "keywords": [
+   "ayyappa",
+   "ayyappan",
+   "pamba",
+   "pathanamthitta",
+   "makaravilakku",
+   "mandala",
+   "swami",
+   "irumudi",
+   "periyar"
+  ],
+  "circuits": [
+   "Forest-hill pilgrimage",
+   "Pilgrimage of South India"
+  ],
+  "tagline": "A forest hilltop shrine reached by pilgrims who undertake a 41-day vow before climbing the eighteen sacred steps.",
+  "summary": "Sabarimala lies in the Western Ghats within the Periyar Tiger Reserve. The Ayyappa pilgrimage is known for its strong discipline and the unity of pilgrims from across South India and beyond.",
+  "facts": [
+   [
+    "Setting",
+    "Western Ghats hilltop in forest, within the Periyar Tiger Reserve"
+   ],
+   [
+    "Managed by",
+    "Travancore Devaswom Board"
+   ],
+   [
+    "Main season",
+    "Mandala-Makaravilakku (mid-November to mid-January)"
+   ],
+   [
+    "Sacred steps",
+    "Eighteen steps (Pathinettampadi)"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "The temple is administered by the Travancore Devaswom Board, formed after the integration of the princely states of Travancore and Cochin in the twentieth century.",
+    "A major fire in 1950 damaged the temple and the shrine was rebuilt in the early 1950s. Since then the temple, its approach and pilgrim facilities have been repeatedly expanded to cope with growing crowds.",
+    "The number of annual pilgrims has risen markedly over the past several decades, and the Kerala government and the Devaswom Board now manage crowd control and services each season."
+   ],
+   "tradition": [
+    "Tradition describes Ayyappa as the son of Shiva and Vishnu in his Mohini form, raised by the king of Pandalam, who later vanished to Sabarimala after defeating the demon Mahishi and other enemies. The Pandalam royal family remains ceremonially associated with the temple.",
+    "A companion shrine is dedicated to Vavar, a figure the tradition describes as Ayyappa's Muslim friend, and pilgrims often visit the mosque at Erumeli. This shows the shared-community character of the pilgrimage, but the stories are traditions and not documented history."
+   ]
+  },
+  "architecture": [
+   "The shrine is a Kerala-style complex with a gilded roof over the sanctum, a flagstaff, and the steep flight of eighteen steps in front. Above the entrance is the Sanskrit phrase 'Tat Tvam Asi' (That Thou Art), a reminder of non-duality.",
+   "Many structures are functional pilgrim facilities. The rustic setting amid forested hills is a defining feature of the experience."
+  ],
+  "significance": [
+   "Sabarimala is distinguished by the vow (vratham) pilgrims take: about 41 days of simple living, wearing black or blue clothing, and abstaining from meat and alcohol. Pilgrims call each other 'Swami' and carry an offering bundle called an Irumudikettu on their heads.",
+   "Many people of different religions and castes join the pilgrimage, and the temple is regarded as a symbol of equality among devotees."
+  ],
+  "festivals": [
+   {
+    "n": "Mandala Pooja",
+    "w": "Late December",
+    "d": "Concludes the 41-day Mandala season with special rituals."
+   },
+   {
+    "n": "Makaravilakku",
+    "w": "14 January (Makara Sankranti)",
+    "d": "A lamp is lit on a hill opposite the temple (Ponnambalamedu), and the deity is adorned with the sacred ornaments (Thiruvabharanam)."
+   },
+   {
+    "n": "Monthly poojas and Vishu",
+    "w": "First days of each Malayalam month; Vishu in April",
+    "d": "The temple opens on a limited basis outside the main season."
+   }
+  ],
+  "visit": {
+   "best_time": "The temple is open mainly in the Mandala-Makaravilakku season and for the first days of each Malayalam month. Check the official calendar before planning.",
+   "reach": [
+    "Pamba is the base camp, roughly 4-5 km of uphill walking from the shrine.",
+    "Nearest railheads: Chengannur and Kottayam; nearest airports: Kochi and Thiruvananthapuram."
+   ],
+   "tips": [
+    "Use the official virtual queue booking system where it is in operation and follow current rules for dress and vow practice.",
+    "Entry rules, including the legal question of access for women of all ages, have been the subject of Supreme Court proceedings; confirm the current position with the Devaswom Board before travelling.",
+    "Carry water and avoid plastic. The forest area is ecologically sensitive."
+   ],
+   "official": {
+    "label": "Sabarimala (Government of Kerala / Devaswom Board)",
+    "url": "https://sabarimala.kerala.gov.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "tirumala-venkateswara",
+    "why": "Another South Indian hill-shrine with a strong pilgrimage culture"
+   },
+   {
+    "slug": "meenakshi-amman",
+    "why": "A major temple of the Tamil region"
+   },
+   {
+    "slug": "siddhivinayak",
+    "why": "A busy devotional site on India's west coast"
+   }
+  ],
+  "image_folder": "Sabarimala Ayyappa Temple"
+ },
+ {
+  "slug": "shirdi-sai-baba",
+  "name": "Shri Sai Baba Temple (Shirdi)",
+  "city": "Shirdi",
+  "district": "Ahilyanagar (formerly Ahmednagar) district",
+  "state": "Maharashtra",
+  "region": "West India",
+  "coords": [
+   19.7668,
+   74.4769
+  ],
+  "deity": "Sai Baba of Shirdi (revered saint)",
+  "keywords": [
+   "shirdi",
+   "sai baba",
+   "saibaba",
+   "samadhi mandir",
+   "dwarkamai",
+   "ahmednagar",
+   "ahilyanagar",
+   "sai",
+   "gurusthan"
+  ],
+  "circuits": [
+   "Sai Baba pilgrimage"
+  ],
+  "tagline": "The Samadhi Mandir of Sai Baba, a saint revered by Hindus, Muslims and others for his teaching of faith and patience.",
+  "summary": "Shirdi grew from a small village into a major pilgrimage centre around the samadhi of Sai Baba, who lived there until his death in 1918. People of many faiths visit the shrine.",
+  "facts": [
+   [
+    "Revered figure",
+    "Sai Baba of Shirdi (died 1918)"
+   ],
+   [
+    "Main shrine",
+    "Samadhi Mandir"
+   ],
+   [
+    "Other sites",
+    "Dwarkamai mosque, Gurusthan, Chavadi, Lendi Baug"
+   ],
+   [
+    "Managed by",
+    "Shri Sai Baba Sansthan Trust"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "Sai Baba lived in Shirdi from the late nineteenth century until his death on 15 October 1918. His birth date, birthplace and early life are not documented, and the available accounts differ.",
+    "Much of what is known of his life comes from devotional biographies, especially the Marathi Shri Sai Satcharita by Govind Raghunath Dabholkar (Hemadpant), written in the early twentieth century, and from the testimony of devotees who knew him.",
+    "After his death he was buried in the Buti Wada, a building being constructed by the Nagpur devotee Gopalrao Buti. It became the Samadhi Mandir. The Shri Sai Baba Sansthan Trust, established in 1922, has administered the shrine since.",
+    "Shirdi's growth as a pilgrimage destination has been rapid in recent decades, with large visitor numbers and extensive facilities."
+   ],
+   "tradition": [
+    "Devotees recount many miracles and healing stories about Sai Baba. These accounts are devotional testimony rather than history in the academic sense.",
+    "His sacred ash (udi) and his fire, the Dhuni at the Dwarkamai, are central to the devotional practice."
+   ]
+  },
+  "architecture": [
+   "The Samadhi Mandir is a white marble shrine with a statue of Sai Baba seated on a throne above the samadhi. The complex has been expanded to include large queue halls, a darshan complex and facilities for pilgrims.",
+   "Close by are the Dwarkamai, the old mosque where Baba lived, the Chavadi where he slept on alternate nights, and the Gurusthan beneath a neem tree."
+  ],
+  "significance": [
+   "Sai Baba's teachings stress faith (shraddha) and patience (saburi) and the unity of all religions, often summarised in the saying 'Sabka Malik Ek' (One God governs all). Hindus, Muslims and others pray at his shrine.",
+   "The temple is known for its voluntary service, free meals and charitable institutions run by the Sansthan."
+  ],
+  "festivals": [
+   {
+    "n": "Ram Navami",
+    "w": "March-April",
+    "d": "A major festival, observed here since the early twentieth century, with processions and fairs."
+   },
+   {
+    "n": "Guru Purnima",
+    "w": "July",
+    "d": "Devotees honour their teachers and Sai Baba as a guru."
+   },
+   {
+    "n": "Punyatithi (Vijayadashami)",
+    "w": "October",
+    "d": "Marks the anniversary of Baba's death in 1918."
+   }
+  ],
+  "visit": {
+   "best_time": "October to February is comfortable. Thursdays, weekends and festival days are the most crowded.",
+   "reach": [
+    "Shirdi has its own airport; the nearest major railheads are Sainagar Shirdi and Kopargaon.",
+    "It is about 180-200 km from Nashik and Pune and roughly 250 km from Mumbai by road."
+   ],
+   "tips": [
+    "Online darshan passes and accommodation can be booked through the Sansthan; avoid unofficial agents.",
+    "Mobile phones, cameras and bags are not permitted inside the shrine, so use the lockers.",
+    "There are several aartis each day, including a pre-dawn Kakad Aarti."
+   ],
+   "official": {
+    "label": "Shri Saibaba Sansthan Trust, Shirdi",
+    "url": "https://sai.org.in"
+   }
+  },
+  "related": [
+   {
+    "slug": "siddhivinayak",
+    "why": "Another famous shrine in Maharashtra"
+   },
+   {
+    "slug": "tirumala-venkateswara",
+    "why": "Another major devotional centre with strong volunteer traditions"
+   },
+   {
+    "slug": "golden-temple",
+    "why": "Another shrine famed for community service and shared meals"
+   }
+  ],
+  "image_folder": "Shri Shirdi Sai Baba Temple"
+ },
+ {
+  "slug": "siddhivinayak",
+  "name": "Siddhivinayak Temple",
+  "city": "Prabhadevi, Mumbai",
+  "district": "Mumbai City district",
+  "state": "Maharashtra",
+  "region": "West India",
+  "coords": [
+   19.017,
+   72.8302
+  ],
+  "deity": "Ganesha (Siddhivinayak)",
+  "keywords": [
+   "mumbai",
+   "bombay",
+   "prabhadevi",
+   "ganesh",
+   "ganesha",
+   "ganpati",
+   "vinayak",
+   "angarki",
+   "ganesh chaturthi"
+  ],
+  "circuits": [
+   "Ganesha temples of Maharashtra",
+   "Mumbai city pilgrimage"
+  ],
+  "tagline": "Mumbai's best-loved Ganesha shrine, where devotees line up each Tuesday to seek the elephant-headed god's blessing.",
+  "summary": "Siddhivinayak is one of the most visited temples in Mumbai. The right-turned trunk of the central image and the temple's association with fulfilled wishes make it a major centre of devotion.",
+  "facts": [
+   [
+    "Deity",
+    "Ganesha, with the trunk turned to the right (Siddhivinayak form)"
+   ],
+   [
+    "Built",
+    "1801 (original small shrine); rebuilt in the early 1990s"
+   ],
+   [
+    "Managed by",
+    "Shree Siddhivinayak Ganapati Mandir Trust"
+   ],
+   [
+    "Busiest days",
+    "Tuesdays and Angarki Chaturthi"
+   ]
+  ],
+  "history": {
+   "documented": [
+    "The temple's original structure was built in 1801. Temple records name the contractor Laxman Vithu Patil, and say that the funds came from a wealthy woman, Deubai Patil, who had no children and wished to give other childless women a place of prayer.",
+    "The first temple was a small brick structure with a dome. Over time, as devotion grew in the twentieth century, the shrine became a major city landmark.",
+    "The present multi-storey temple was rebuilt in the early 1990s. The temple is managed under a public trust, which also runs charitable programmes."
+   ],
+   "tradition": [
+    "Devotees believe that sincere prayers made to Siddhivinayak are fulfilled, and many return after a wish is granted. This belief is the basis for the shrine's busy Tuesday queues.",
+    "The right-turned trunk of the image is regarded in tradition as a powerful and demanding form of Ganesha, requiring devotion and discipline."
+   ]
+  },
+  "architecture": [
+   "The present temple is a tall, tiered building topped by a golden dome, with a small sanctum for the deity inside a larger prayer hall. It is much more modern than most temples in this collection and follows the Maharashtrian temple tradition adapted for a city setting.",
+   "The sanctum's wooden doors are carved with images of the eight Ganesha forms of Maharashtra (Ashtavinayaka), and the interior is decorated with gold-plated work.",
+   "The central image is a black stone figure of Ganesha about two and a half feet tall, with the deity's consorts Riddhi and Siddhi shown on either side."
+  ],
+  "significance": [
+   "Siddhivinayak shows how a temple can anchor the devotional life of a modern metropolis. People from every walk of life, including celebrities and politicians, join the long queues.",
+   "The trust is involved in charitable activity, including medical and educational assistance."
+  ],
+  "festivals": [
+   {
+    "n": "Ganesh Chaturthi",
+    "w": "August-September (10 days)",
+    "d": "Mumbai's biggest festival, with special worship at the temple and processions across the city."
+   },
+   {
+    "n": "Angarki Chaturthi",
+    "w": "When Chaturthi falls on a Tuesday",
+    "d": "Considered especially auspicious; the temple receives huge crowds."
+   },
+   {
+    "n": "Magh Chaturthi (Magha Ganeshotsav)",
+    "w": "January-February",
+    "d": "Observed with special rituals and decorations."
+   }
+  ],
+  "visit": {
+   "best_time": "Early mornings on weekdays are quieter. Tuesdays, Chaturthi days and Ganesh Chaturthi are extremely crowded.",
+   "reach": [
+    "Prabhadevi is in central-south Mumbai; the nearest railway stations are Prabhadevi, Dadar and Elphinstone Road.",
+    "Taxis, buses and ride-hailing are available across the city."
+   ],
+   "tips": [
+    "Book darshan slots and special entry through the temple's official website where available.",
+    "Bags, phones and cameras may be restricted; leave valuables behind.",
+    "Flowers and coconuts are commonly offered; buy from the stalls near the entrance."
+   ],
+   "official": {
+    "label": "Shree Siddhivinayak Ganapati Mandir Trust",
+    "url": "https://www.siddhivinayak.org"
+   }
+  },
+  "related": [
+   {
+    "slug": "shirdi-sai-baba",
+    "why": "Another famed Maharashtra shrine"
+   },
+   {
+    "slug": "meenakshi-amman",
+    "why": "Another grand city-centred temple"
+   },
+   {
+    "slug": "tirumala-venkateswara",
+    "why": "Another temple with large-scale pilgrim management"
+   }
+  ],
+  "image_folder": "Mumbai Siddhivinayak Temple"
+ }
+]

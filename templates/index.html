@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bharat Temple Darshan - Explore India's Sacred Heritage</title>
+<meta name="description" content="Explore ten of India's most celebrated temples with original photographs, history, architecture, festivals and visitor information, plus an Indian heritage data explorer.">
+<meta name="theme-color" content="#170D08">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23170D08'/%3E%3Cpath d='M32 8l5 10h-10zM22 20h20l3 8H19zM17 30h30l3 10H14zM12 42h40l4 12H8z' fill='%23E8BD45'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+<a class="skip" href="#app">Skip to content</a>
+<div id="progress" aria-hidden="true"></div>
+
+<header class="site-header" id="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" data-link aria-label="Bharat Temple Darshan home">
+      <svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 6l4 9h-8zM23 17h18l3 7H20zM17 26h30l3 9H14zM11 37h42l4 13H7zM5 52h54v6H5z" fill="currentColor"/></svg>
+      <span class="brand-text"><b>BHARAT</b> TEMPLE DARSHAN</span>
+    </a>
+    <nav id="main-nav" class="main-nav" aria-label="Main navigation">
+      <a href="/" data-link data-nav="home">Home</a>
+      <a href="/india" data-link data-nav="india">India</a>
+      <a href="/states" data-link data-nav="states">All States</a>
+      <a href="/temples" data-link data-nav="temples">Famous Temples</a>
+      <a href="/about" data-link data-nav="about">About</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="search-open" type="button" aria-label="Search temples" aria-haspopup="dialog">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+      <button class="icon-btn nav-toggle" id="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div id="search-overlay" class="search-overlay" role="dialog" aria-modal="true" aria-label="Search temples" hidden>
+  <div class="search-panel">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="search-input" type="search" placeholder="Search by temple, city or state..." autocomplete="off" aria-label="Search temples by name, city or state">
+      <button type="button" id="search-clear" class="text-btn" hidden>Clear</button>
+      <button type="button" id="search-close" class="text-btn">Close</button>
+    </div>
+    <div id="search-results" class="search-results" aria-live="polite"></div>
+  </div>
+</div>
+
+<main id="app" tabindex="-1"></main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <div class="brand-text footer-brand"><b>BHARAT</b> TEMPLE DARSHAN</div>
+      <p>Explore India's sacred heritage: temples, history, architecture and living traditions.</p>
+    </div>
+    <div>
+      <h4>Explore</h4>
+      <a href="/" data-link>Home</a><a href="/india" data-link>India heritage data</a><a href="/states" data-link>All states</a><a href="/temples" data-link>Famous temples</a><a href="/about" data-link>About this project</a>
+    </div>
+    <div>
+      <h4>Temples</h4>
+      <a href="/temple/tirumala-venkateswara" data-link>Tirumala Venkateswara</a><a href="/temple/meenakshi-amman" data-link>Meenakshi Amman</a><a href="/temple/kashi-vishwanath" data-link>Kashi Vishwanath</a><a href="/temple/golden-temple" data-link>Golden Temple</a><a href="/temples" data-link>See all ten</a>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">A B.Tech college project. Please follow the dress code and rules of each shrine when you visit. Check official sources for timings and bookings.</div>
+</footer>
+
+<div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
+  <button type="button" class="lb-btn lb-close" id="lb-close" aria-label="Close viewer">&times;</button>
+  <button type="button" class="lb-btn lb-prev" id="lb-prev" aria-label="Previous photo">&#10094;</button>
+  <figure class="lb-figure"><img id="lb-img" alt=""><div class="lb-spinner" id="lb-spinner"></div><figcaption id="lb-caption"></figcaption></figure>
+  <button type="button" class="lb-btn lb-next" id="lb-next" aria-label="Next photo">&#10095;</button>
+</div>
+<noscript><p style="padding:2rem;color:#f3e8cf">Bharat Temple Darshan needs JavaScript to run.</p></noscript>
+<script src="/static/js/app.js" defer></script>
+</body>
+</html>
